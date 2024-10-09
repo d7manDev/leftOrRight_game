@@ -7,6 +7,16 @@
 ---
 
 **_clone the repo_**
-`git clone git@github.com:d7manDev/leftOrRight_game.git`
+
+```shell
+git clone git@github.com:d7manDev/leftOrRight_game.git
+
+
+```
+
 **to run the Game after clone it**
-`node leftOrRight.js`
+
+```shell
+node leftOrRight.js
+
+```
